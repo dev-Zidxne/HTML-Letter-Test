@@ -1,0 +1,17 @@
+/* class selector */
+
+.green {
+  color: green;
+}
+
+/* id selector */
+
+#bold {
+  font-weight: bold;
+}
+
+/* element selector */
+
+p {
+  font-size: 16px;
+}
